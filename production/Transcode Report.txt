@@ -1,0 +1,202 @@
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-F_Paste.gtp' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-F_Mask.gts' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D101
+D11   --> D102
+D12   --> D103
+D13   --> D104
+D14   --> D105
+D15   --> D106
+D16   --> D107
+D17   --> D108
+D18   --> D109
+D19   --> D110
+D20   --> D111
+D21   --> D112
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-F_Cu.gtl' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D113
+D11   --> D114
+D12   --> D115
+D13   --> D116
+D14   --> D117
+D15   --> D118
+D16   --> D119
+D17   --> D120
+D18   --> D121
+D19   --> D122
+D20   --> D123
+D21   --> D124
+D22   --> D125
+D23   --> D126
+D24   --> D127
+D25   --> D128
+D26   --> D129
+D27   --> D130
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-In1_Cu.g1' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D131
+D11   --> D132
+D12   --> D133
+D13   --> D134
+D14   --> D135
+D15   --> D136
+D16   --> D137
+D17   --> D138
+D18   --> D139
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-In2_Cu.g2' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D140
+D11   --> D141
+D12   --> D142
+D13   --> D143
+D14   --> D144
+D15   --> D145
+D16   --> D146
+D17   --> D147
+D18   --> D148
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-B_Cu.gbl' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D149
+D11   --> D150
+D12   --> D151
+D13   --> D152
+D14   --> D153
+D15   --> D154
+D16   --> D155
+D17   --> D156
+D18   --> D157
+D19   --> D158
+D20   --> D159
+D21   --> D160
+D22   --> D161
+D23   --> D162
+D24   --> D163
+D25   --> D164
+D26   --> D165
+D27   --> D166
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-B_Mask.gbs' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D167
+D11   --> D168
+D12   --> D169
+D13   --> D170
+D14   --> D171
+D15   --> D172
+D16   --> D173
+D17   --> D174
+D18   --> D175
+D19   --> D176
+D20   --> D177
+D21   --> D178
+D22   --> D179
+D23   --> D180
+D24   --> D181
+D25   --> D182
+D26   --> D183
+D27   --> D184
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-B_Paste.gbp' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D185
+D11   --> D186
+D12   --> D187
+D13   --> D188
+D14   --> D189
+D15   --> D190
+D16   --> D191
+D17   --> D192
+D18   --> D193
+D19   --> D194
+D20   --> D195
+D21   --> D196
+D22   --> D197
+D23   --> D198
+D24   --> D199
+D25   --> D200
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-B_Silkscreen.gbo' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D201
+D11   --> D202
+D12   --> D203
+D13   --> D204
+D14   --> D205
+D15   --> D206
+D16   --> D207
+D17   --> D208
+D18   --> D209
+D19   --> D210
+D20   --> D211
+D21   --> D212
+D22   --> D213
+D23   --> D214
+D24   --> D215
+D25   --> D216
+D26   --> D217
+D27   --> D218
+D28   --> D219
+D29   --> D220
+D30   --> D221
+D31   --> D222
+D32   --> D223
+D33   --> D224
+D34   --> D225
+D35   --> D226
+D36   --> D227
+D37   --> D228
+D38   --> D229
+D39   --> D230
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-Edge_Cuts.gm1' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D231
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-NPTH-drl_map.gbr' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D232
+D11   --> D233
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\kgalinec\AppData\Local\Temp\PentaLogix\ImportZip\f1ad7291-b00d-4be0-bda1-12c2ba4b6d5e\Macro Pad-PTH-drl_map.gbr' ----   Thu Jun 26 19:38:00 2025
+
+D10   --> D234
+D11   --> D235
+D12   --> D236
+D13   --> D237
+D14   --> D238
+D15   --> D239
+D16   --> D240
+D17   --> D241
+-----------------------------------------------------------------

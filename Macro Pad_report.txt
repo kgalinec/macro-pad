@@ -1,0 +1,54 @@
+PCB statistics report
+=====================
+- Date: 26.6.2025. 16:27:24
+- Project: Macro Pad
+- Board name: Macro Pad
+
+Board
+-----
+- Width: 72,0000 mm
+- Height: 110,0000 mm
+- Area: 7898,5170 mm²
+
+Pads
+----
+- Through hole: 68
+- SMD: 237
+- Connector: 0
+- NPTH: 0
+
+Vias
+----
+- Through vias: 173
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |         15 |         0 |    15 |
+|SMD:          |          2 |        77 |    79 |
+|Unspecified:  |          4 |         0 |     4 |
+|Total:        |         21 |        77 |    98 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|   171 | Round | 0,3050 mm | 0,3050 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|    20 | Round | 1,6000 mm | 1,6000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    12 | Round | 1,2000 mm | 1,2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    10 | Round | 4,2000 mm | 4,2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     6 | Round | 0,9144 mm | 0,9144 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 1,0000 mm | 1,0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 3,2000 mm | 3,2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     3 |  Slot | 1,8000 mm | 2,2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     3 |  Slot | 1,8000 mm | 2,0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 0,7000 mm | 0,7000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 |  Slot | 0,6000 mm | 1,2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 0,3050 mm | 0,3050 mm |    PTH |     Via |      In1.Cu |       B.Cu |
+|     1 |  Slot | 0,6000 mm | 1,5000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot | 0,6000 mm | 1,5000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
